@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Test from main",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceRoot}/__init__.py",
+            "console": "integratedTerminal",
+            "justMyCode": true
+        }
+    ]
+}
